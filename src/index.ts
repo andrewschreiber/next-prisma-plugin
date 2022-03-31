@@ -32,6 +32,7 @@ const withPrismaPlugin = (nextConfig = {}) => (
             ...config.watchOptions,
             ignored,
           },
+          node: { ...config.node},
         })
       },
     })
