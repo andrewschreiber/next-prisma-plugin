@@ -35,12 +35,13 @@
   },
   "dependencies": {
     "typescript": "4.0.3",
-    "webpack": "4.44.2"
+    "webpack": "4.44.2",
+    "@types/webpack": "4.41.22",
+
   },
   "devDependencies": {
     "@prisma-labs/prettier-config": "0.1.0",
     "@types/jest": "^26.0.15",
-    "@types/webpack": "4.41.22",
     "dripip": "0.10.0",
     "eslint": "7.10.0",
     "eslint-config-prettier": "6.12.0",
