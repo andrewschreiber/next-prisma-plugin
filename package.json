@@ -33,7 +33,6 @@
     "stable": "dripip stable",
     "test": "jest",
     "test:watch": "jest --watch",
-    "tsc": "tsc",
     "postinstall": "tsc --outDir ./dist"
   },
   "dependencies": {},
