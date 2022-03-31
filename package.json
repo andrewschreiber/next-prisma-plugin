@@ -35,9 +35,9 @@
     "test:watch": "jest --watch",
     "postinstall": "yarn run tsc"
   },
-  "dependencies": { 
-    "typescript" : "4.0.3",
-    "webpack": "4.44.2"
+  "dependencies": {
+    "typescript": "4.0.3",
+    "webpack": "4.44.2",
   },
   "devDependencies": {
     "@prisma-labs/prettier-config": "0.1.0",
