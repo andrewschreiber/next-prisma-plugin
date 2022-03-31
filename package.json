@@ -33,7 +33,7 @@
     "stable": "dripip stable",
     "test": "jest",
     "test:watch": "jest --watch",
-    "postinstall": "yarn run tsc --outDir ./dist"
+    "postinstall": "yarn run build"
   },
   "dependencies": {},
   "devDependencies": {
